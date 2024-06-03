@@ -1,2 +1,10 @@
 # dev_env
-some configs for development
+Tools installed:
+- starship.rs
+- zoxide
+- bat
+- lsd
+- lazygit
+- kitty
+- temux
+- nvim
